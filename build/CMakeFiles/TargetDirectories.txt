@@ -1,0 +1,4 @@
+/home/pliffdax/lab2/build/CMakeFiles/calc.dir
+/home/pliffdax/lab2/build/CMakeFiles/app.dir
+/home/pliffdax/lab2/build/CMakeFiles/edit_cache.dir
+/home/pliffdax/lab2/build/CMakeFiles/rebuild_cache.dir
